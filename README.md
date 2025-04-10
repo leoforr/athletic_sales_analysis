@@ -1,4 +1,4 @@
-# 📊 Athletic Sales Analysis
+# Athletic Sales Analysis
 
 This project analyzes sales data related to athletic products using Python and pandas, offering business insights through data exploration and visualization. The notebook focuses on identifying sales trends, top-selling products, and peak purchasing periods to support strategic business decisions.
 
